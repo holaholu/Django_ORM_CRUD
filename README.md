@@ -1,1 +1,1 @@
-#This a basic CRUD application with Django ORM and PostgreSQL DB
+# This is a simple CRUD application developed with Django ORM and PostgreSQL DB. 
